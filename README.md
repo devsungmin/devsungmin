@@ -12,7 +12,7 @@
 
 ⌨️ I can use **Python, C, Java**, and I have experience using Vue.js and Ruby on Rails.
 
-😃 If you want to know more about me, you can check out my projects and simple information through the [link](https://www.sungmin.dev/1996/12/23/About-Me.html).
+😃 If you want to know more about me, you can check out my projects and simple information through the [link](https://study.sungmin.dev/about).
 
 <h2>Languages and Tools</h2>
 
