@@ -10,7 +10,9 @@
 
 💻 I'm interested in NLP(Natural Language Processing) among the recent deep learning areas.
 
-⌨️ I can use **Python, C, Java**, and I have experience using Vue.js and Ruby on Rails.
+🤔 I'm working hard to make the service I want to use.
+
+⌨️ I can use **Python, C, Java**, and I have experience using **Vue.js and Node.js, Ruby on Rails**.
 
 😃 If you want to know more about me, you can check out my projects and simple information through the [link](https://study.sungmin.dev/about).
 
