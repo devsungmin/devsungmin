@@ -6,7 +6,7 @@
 
 👋 Hello! I'm **Sungmin Kim**
 
-🏫 I majored in **computer engineering at Sunmoon University** and am planning to graduate from college in February, 2021.
+🏫 I majored in **computer science and engineering at Sunmoon University** and am planning to graduate from college in February, 2021.
 
 💻 I'm interested in NLP(Natural Language Processing) among the recent deep learning areas.
 
