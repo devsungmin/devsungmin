@@ -6,15 +6,15 @@
 
 👋 Hello! I'm **Sungmin Kim**
 
-🏫 I majored in **computer science and engineering at Sunmoon University** and am planning to graduate from college in February, 2021.
+🏫 I majored in **computer science and engineering** (2015.03 ~ 2021.02)
 
 💻 I'm interested in NLP(Natural Language Processing) among the recent deep learning areas.
 
 🤔 I'm working hard to make the service I want to use.
 
-⌨️ I can use **Python, C, Java**, and I have experience using **Vue.js and Node.js, Ruby on Rails**.
+⌨️ I can use **Python, C, Java**, and I have experience using **Vue.js and Node.js, Spring Boot Ruby on Rails, Tensorflow, Keras**.
 
-😃 If you want to know more about me, you can check out my projects and simple information through the [link](https://study.sungmin.dev/about).
+😃 If you want to know more about me, you can check out my projects and simple information through the [link](https://www.sungmin.dev/about).
 
 <h2>Languages and Tools</h2>
 
