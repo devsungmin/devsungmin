@@ -1,34 +1,32 @@
-<div align=center>
+<h1> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! I'm Sungmin Kim  </h1>
+
+- 🏫 I majored in **computer science and engineering** (2015.03 ~ 2021.02)
+
+- ⌨️  I can use `Python`, `C`, `Java`, and I have experience using `Vue.js` and `Node.js`, `Spring Boot`, `Ruby on Rails`, `Tensorflow`, `Keras`.
+
+- 🤔 I'm working hard to make the service I want to use.
+
+- 😃 If you want to know more about me, you can check out my projects and simple information through the [Link](https://www.sungmin.dev/about).
+
+## Activity
+- 🦁 LikeLion 6th (2018.03 ~ 2018.12)
+- 💻 System Software Lab. (2018.03 ~ 2021.02)
+
+## Projects
+- 🚗 [웹 기반 교통사고 예측 서비스](https://github.com/devsungmin/Traffic-accident-prediction)
+- 🧱 [DeepBlock: 웹 기반 딥러닝 교육용 플랫폼](https://github.com/DeepBl0ck/DeepBlock) / Private Repositories
+- ❗️ [사용자 주변 대피소 안내 앱](https://github.com/devsungmin/Mobile-SW-Project)
+- ❌ [웹 기반 천안/아산 대피소 위치 찾기 서비스](https://github.com/devsungmin/OSS-Team)
+
+# Github Stats
+<a href='#'>
+ <img src = "https://github-readme-stats.vercel.app/api?username=devsungmin&theme=react&show_icons=true&hide_border=true" height = "180px">
+</a>
+<a href="#">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devsungmin&theme=react&layout=compact" height = "180px">
+</a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devsungmin)](https://hits.seeyoufarm.com)
-
-</div>
-
-👋 Hello! I'm **Sungmin Kim**
-
-🏫 I majored in **computer science and engineering** (2015.03 ~ 2021.02)
-
-💻 I'm interested in NLP(Natural Language Processing) among the recent deep learning areas.
-
-🤔 I'm working hard to make the service I want to use.
-
-⌨️ I can use **Python, C, Java**, and I have experience using **Vue.js and Node.js, Spring Boot Ruby on Rails, Tensorflow, Keras**.
-
-😃 If you want to know more about me, you can check out my projects and simple information through the [link](https://www.sungmin.dev/about).
-
-<h2>Languages and Tools</h2>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Sungmin's github stats](https://github-readme-stats.vercel.app/api?username=devsungmin&show_icons=true&hide_border=true)
-
 [![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/devsungmin)](https://github.com/devsungmin)
 [![Blog](http://img.shields.io/badge/-My%20Blog-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.sungmin.dev/)](https://blog.sungmin.dev/)
 [![StudyLog](http://img.shields.io/badge/-StudyLog-blue?style=flat-square&logo=Blogger&logoColor=white&link=https://www.sungmin.dev/)](https://www.sungmin.dev/)
