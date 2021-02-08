@@ -10,7 +10,7 @@
 
 ## Activity
 - 🦁 LikeLion 6th (2018.03 ~ 2018.12)
-- 💻 System Software Lab. (2018.03 ~ 2021.02)
+- 💻 System Software Lab. (2019.03 ~ 2021.02)
 
 ## Projects
 - 🚗 [웹 기반 교통사고 예측 서비스](https://github.com/devsungmin/Traffic-accident-prediction)
