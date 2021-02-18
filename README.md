@@ -14,7 +14,7 @@
 
 ## Projects
 - 🚗 [웹 기반 교통사고 예측 서비스](https://github.com/devsungmin/Traffic-accident-prediction)
-- 🧱 [DeepBlock: 웹 기반 딥러닝 교육용 플랫폼](https://github.com/DeepBl0ck/DeepBlock) / Private Repositories
+- 🧱 [DeepBlock: 웹 기반 딥러닝 교육용 플랫폼](https://github.com/DeepBl0ck/DeepBlock)
 - ❗️ [사용자 주변 대피소 안내 앱](https://github.com/devsungmin/Mobile-SW-Project)
 - ❌ [웹 기반 천안/아산 대피소 위치 찾기 서비스](https://github.com/devsungmin/OSS-Team)
 
