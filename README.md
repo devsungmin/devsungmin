@@ -8,6 +8,10 @@
 
 - 😃 If you want to know more about me, you can check out my projects and simple information through the [Link](https://www.sungmin.dev/about).
 
+## Career
+- (주)감성한스푼 | Backend Developer (2021.05.07 ~ ing)
+
+
 ## Activity
 - 🦁 LikeLion 6th (2018.03 ~ 2018.12)
 - 💻 System Software Lab. (2019.03 ~ 2021.02)
