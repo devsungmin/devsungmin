@@ -34,6 +34,11 @@
  # Solved.ac Stats
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devsungmin)](https://solved.ac/devsungmin/)
  
+# Github Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=devsungmin&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+ # Contact Me!
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devsungmin)](https://hits.seeyoufarm.com)
 [![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/devsungmin)](https://github.com/devsungmin)
 [![Blog](http://img.shields.io/badge/-My%20Blog-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.sungmin.dev/)](https://blog.sungmin.dev/)
