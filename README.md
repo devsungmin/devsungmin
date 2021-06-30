@@ -6,7 +6,7 @@
 
 - 🤔 I'm working hard to make the service I want to use.
 
-- 😃 If you want to know more about me, you can check out my projects and simple information through the [Link](https://www.sungmin.dev/about).
+- 😃 If you want to know more about me, you can check out my projects and simple information through the [Link](https://about.sungmin.dev).
 
 ## Experience
 - (주)감성한스푼 | Backend Developer (2021.05.07 ~ 2021.06.04)
