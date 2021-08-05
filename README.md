@@ -1,12 +1,34 @@
-<h1> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello! I'm Sungmin Kim  </h1>
+<h1> Sungmin Kim  </h1>
 
-- 🏫 I majored in **computer science and engineering** (2015.03 ~ 2021.02)
+🎓 Computer Science and Engineering at Sunmoon University (2015.03 ~ 2021.02)
 
-- ⌨️  I can use `Python`, `C`, `Java`, and I have experience using `Vue.js` and `Node.js`, `Spring Boot`, `Ruby on Rails`, `Tensorflow`, `Keras`.
+🧑🏻‍💻 Backend Developer
 
-- 🤔 I'm working hard to make the service I want to use.
+## Skills
 
-- 😃 If you want to know more about me, you can check out my projects and simple information through the [Link](https://about.sungmin.dev).
+### Language
+![Python Badge](https://img.shields.io/badge/Python-235A97?style=flat-square&logo=Python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-FFBB00?style=flat-square&logo=Java&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)
+
+### Web Framework
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
+
+![Node Badge](https://img.shields.io/badge/Node.js-026e00?style=flat-square&logo=Node.js&logoColor=white)
+![Express Badge](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black)
+![Rails Badge](https://img.shields.io/badge/Rails-cc0000?style=flat-square&logo=RubyonRails&logoColor=white)
+![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-80ea6e?style=flat-square&logo=SpringBoot&logoColor=white)
+
+### Deep Learning
+![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-dd2c00?style=flat-square&logo=Tensorflow&logoColor=white)
+![Keras Badge](https://img.shields.io/badge/Keras-d00000?style=flat-square&logo=Keras&logoColor=white)
+
+### DevOps, Etc
+![Github Badge](https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-dd2c00?style=flat-square&logo=Git&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## Experience
 - (주)감성한스푼 | Backend Developer (2021.05.07 ~ 2021.06.04)
@@ -43,7 +65,7 @@
 [![GitHub](http://img.shields.io/badge/GitHub-Black?style=flat-square&logo=github&link=https://github.com/devsungmin)](https://github.com/devsungmin)
 [![Blog](http://img.shields.io/badge/-My%20Blog-orange?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.sungmin.dev/)](https://blog.sungmin.dev/)
 [![StudyLog](http://img.shields.io/badge/-StudyLog-blue?style=flat-square&logo=Blogger&logoColor=white&link=https://www.sungmin.dev/)](https://www.sungmin.dev/)
-[![AboutMe](https://img.shields.io/badge/About%20Me!-Green?style=flat-square&link=https://about.sungmin.dev/)](https://about.sungmin.dev/)
+[![Resume](https://img.shields.io/badge/About%20Me!-Green?style=flat-square&link=https://about.sungmin.dev/)](https://about.sungmin.dev/)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/devsunmgmin/)](https://www.facebook.com/devsungmin/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/devsungmin/)](https://www.instagram.com/devsungmin/)
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim@sungmin.dev)](mailto:kim@sungmin.dev)
