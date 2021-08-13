@@ -47,7 +47,8 @@
 ![Git Badge](https://img.shields.io/badge/Git-dd2c00?style=flat-square&logo=Git&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
-## Experience
+## Career
+- Dacon Inc. | Backend Developer (2021.08.17 ~ ing)
 - (주)감성한스푼 | Backend Developer (2021.05.07 ~ 2021.06.04)
 
 ## Activity
