@@ -14,7 +14,7 @@
 
 🎓 Computer Science and Engineering at Sunmoon University (2015.03 ~ 2021.02)
 
-🧑🏻‍💻 Backend Developer
+🧑🏻‍💻 Backend Developer [@Dacon.Inc](https://dacon.io)
 
 ## Skills
 
