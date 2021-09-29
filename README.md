@@ -1,17 +1,4 @@
-<!-- <h1> Sungmin Kim  </h1> -->
-```
-
- _____                                  _          _   __ _              __     _                                                    _        __  
-/  ___|                                (_)        | | / /(_)            / /    | |                                                  (_)       \ \ 
-\ `--.  _   _  _ __    __ _  _ __ ___   _  _ __   | |/ /  _  _ __ ___  | |   __| |  ___ __   __ ___  _   _  _ __    __ _  _ __ ___   _  _ __   | |
- `--. \| | | || '_ \  / _` || '_ ` _ \ | || '_ \  |    \ | || '_ ` _ \ | |  / _` | / _ \\ \ / // __|| | | || '_ \  / _` || '_ ` _ \ | || '_ \  | |
-/\__/ /| |_| || | | || (_| || | | | | || || | | | | |\  \| || | | | | || | | (_| ||  __/ \ V / \__ \| |_| || | | || (_| || | | | | || || | | | | |
-\____/  \__,_||_| |_| \__, ||_| |_| |_||_||_| |_| \_| \_/|_||_| |_| |_|| |  \__,_| \___|  \_/  |___/ \__,_||_| |_| \__, ||_| |_| |_||_||_| |_| | |
-                       __/ |                                            \_\                                         __/ |                     /_/ 
-                      |___/                                                                                        |___/                          
-
-```
-
+<h1> Sungmin Kim  </h1>
 🎓 Computer Science and Engineering at Sunmoon University (2015.03 ~ 2021.02)
 
 🧑🏻‍💻 Backend Developer [@Dacon.Inc](https://dacon.io)
@@ -48,18 +35,13 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## Career
-- Dacon Inc. | Backend Developer (2021.08.17 ~ ing)
-- (주)감성한스푼 | Backend Developer (2021.05.07 ~ 2021.06.04)
+- [Dacon Inc.](https://dacon.io) | Backend Developer (2021.08.17 ~ ing)
+- [(주)감성한스푼](https://gamspoon.com) | Backend Developer (2021.05.07 ~ 2021.06.04)
 
 ## Activity
-- 🦁 LikeLion 6th (2018.03 ~ 2018.12)
-- 💻 System Software Lab. (2019.03 ~ 2021.02)
-
-## Projects
-- 🚗 [웹 기반 교통사고 예측 서비스](https://github.com/devsungmin/Traffic-accident-prediction)
-- 🧱 [DeepBlock: 웹 기반 딥러닝 교육용 플랫폼](https://github.com/DeepBl0ck/DeepBlock)
-- ❗️ [사용자 주변 대피소 안내 앱](https://github.com/devsungmin/Mobile-SW-Project)
-- ❌ [웹 기반 천안/아산 대피소 위치 찾기 서비스](https://github.com/devsungmin/OSS-Team)
+- 🦁 [LikeLion 6th](https://www.likelion.net/univ) (2018.03 ~ 2018.12)
+- 💻 [System Software Lab.](https://sites.google.com/view/cbnu-ssrlab/home?authuser=0) (2019.03 ~ 2021.02)
+- <🖌> [Depromeet 10th](https://www.depromeet.com/) (2021.09 ~ 2021.12)
 
 # Github Stats
 <a href='#'>
@@ -69,9 +51,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devsungmin&theme=react&layout=compact" height = "180px">
 </a>
 <div align=center>
- 
- # Solved.ac Stats
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devsungmin)](https://solved.ac/devsungmin/)
  
 # Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=devsungmin&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
