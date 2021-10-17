@@ -17,6 +17,7 @@
 
 ![Node Badge](https://img.shields.io/badge/Node.js-026e00?style=flat-square&logo=Node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black)
+![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
 ![Rails Badge](https://img.shields.io/badge/Rails-cc0000?style=flat-square&logo=RubyonRails&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-80ea6e?style=flat-square&logo=SpringBoot&logoColor=white)
 
