@@ -18,17 +18,10 @@
 ![Node Badge](https://img.shields.io/badge/Node.js-026e00?style=flat-square&logo=Node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black)
 ![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
-![Rails Badge](https://img.shields.io/badge/Rails-cc0000?style=flat-square&logo=RubyonRails&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-80ea6e?style=flat-square&logo=SpringBoot&logoColor=white)
-
-### Deep Learning Framework
-![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-dd2c00?style=flat-square&logo=Tensorflow&logoColor=white)
-![Keras Badge](https://img.shields.io/badge/Keras-d00000?style=flat-square&logo=Keras&logoColor=white)
 
 ### Database
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=Mysql&logoColor=white)
-![Firebase Badge](https://img.shields.io/badge/Firebase-F2CB61?style=flat-square&logo=Firebase&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=Mongodb&logoColor=white)
 
 ### DevOps, Etc
 ![Github Badge](https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white)
