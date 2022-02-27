@@ -1,7 +1,7 @@
 <h1> Sungmin Kim  </h1>
 🎓 Computer Science and Engineering at Sunmoon University (2015.03 ~ 2021.02)
 
-🧑🏻‍💻 Backend Developer [@Dacon.Inc](https://dacon.io)
+🧑🏻‍💻 Backend Developer [@Kurly](https://www.kurly.com)
 
 ## Skills
 
