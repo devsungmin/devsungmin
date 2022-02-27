@@ -6,8 +6,8 @@
 ## Skills
 
 ### Language
-![Python Badge](https://img.shields.io/badge/Python-235A97?style=flat-square&logo=Python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-FFBB00?style=flat-square&logo=Java&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-235A97?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)
 
@@ -15,10 +15,10 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 
+![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-80ea6e?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-026e00?style=flat-square&logo=Node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black)
 ![Nest Badge](https://img.shields.io/badge/Nest.Js-cc0000?style=flat-square&logo=NestJs&logoColor=white)
-![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-80ea6e?style=flat-square&logo=SpringBoot&logoColor=white)
 
 ### Database
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=Mysql&logoColor=white)
@@ -37,6 +37,7 @@
 - 🦁 [LikeLion 6th](https://www.likelion.net/univ) (2018.03 ~ 2018.12)
 - 💻 [System Software Lab.](https://sites.google.com/view/cbnu-ssrlab/home?authuser=0) (2019.03 ~ 2021.02)
 - <🖌> [Depromeet 10th](https://www.depromeet.com/) (2021.09 ~ 2021.12)
+- <🖌> [Depromeet 11th](https://www.depromeet.com/) (2022.01~ 2022.07)
 
 # Github Stats
 <a href='#'>
