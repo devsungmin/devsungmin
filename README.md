@@ -29,7 +29,8 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## Career
-- [Dacon Inc.](https://dacon.io) | Backend Developer (2021.08.17 ~ ing)
+- [Kurly](https://www.kurly.com/shop/main/index.php) | Java Backend Developer (2022.03.14 ~ ing)
+- [Dacon Inc.](https://dacon.io) | Backend Developer (2021.08.17 ~ 2022.02.25)
 - [(주)감성한스푼](https://gamspoon.com) | Backend Developer (2021.05.07 ~ 2021.06.04)
 
 ## Activity
