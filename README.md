@@ -38,19 +38,6 @@
 - 💻 [System Software Lab.](https://sites.google.com/view/cbnu-ssrlab/home?authuser=0) (2019.03 ~ 2021.02)
 - <🖌> [Depromeet 10th](https://www.depromeet.com/) (2021.09 ~ 2021.12)
 - <🖌> [Depromeet 11th](https://www.depromeet.com/) (2022.01~ 2022.07)
-
-# Github Stats
-<a href='#'>
- <img src = "https://github-readme-stats.vercel.app/api?username=devsungmin&theme=react&show_icons=true&hide_border=true" height = "180px">
-</a>
-<a href="#">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devsungmin&theme=react&layout=compact" height = "180px">
-</a>
-<div align=center>
- 
-# Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=devsungmin&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
  # Contact Me!
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devsungmin)](https://hits.seeyoufarm.com)
