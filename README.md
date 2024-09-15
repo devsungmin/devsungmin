@@ -41,5 +41,7 @@
 - System Software Lab. Undergraduate Student Researcher (2019.03 ~ 2021.02)
 - Depromeet 10th Member (2021.09 ~ 2021.12)
 - Depromeet 11th Organizer (2022.01~ 2022.07)
+- SIPE 1st Member (2023.07 ~ 2023.12)
+- SIPE 2nd Organizer (2024.01 ~ 2024.07)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/devsungmin)](https://hits.seeyoufarm.com)
