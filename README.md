@@ -31,7 +31,7 @@
 
 ## 🏢 Career
 
-- Kurly | Java Backend Developer (2022.03.14 ~ ing)
+- Kurly | Java Backend Developer (2022.03.14 ~ present)
 - Dacon Inc | Backend Developer (2021.08.17 ~ 2022.02.25)
 - (주)감성한스푼 | Backend Developer (2021.05.07 ~ 2021.06.04)
 
