@@ -5,7 +5,7 @@
 
 ## 🧑🏻‍💻 Sungmin Kim
 
-🙋🏻‍♂️ Backend Developer [@Kurly](https://www.kurly.com)
+🙋🏻‍♂️ Software Engineer, Backend [@Kurly](https://www.kurly.com)
 
 🎓 Computer Science and Engineering at Sunmoon University (2015.03 ~ 2021.02)
 
